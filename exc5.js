@@ -1,0 +1,1 @@
+console.log("Denominando cada uma dos interrruptores como A, B e C eu ligaria o interruptor A por alguns minutos e depois o desligaria, ligaria o interruptor B e deixe o C desligado, e indo na sala das lâmpadas, identificaria a lâmpada acesa (B), a lâmpada quente (A), e a lâmpada fria (C).");
